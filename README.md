@@ -1,0 +1,2 @@
+# SeeHearSpeak
+ AI for entertainment
